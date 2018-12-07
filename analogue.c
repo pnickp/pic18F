@@ -1,1 +1,4 @@
 //comment
+void main(){
+  return;
+}
